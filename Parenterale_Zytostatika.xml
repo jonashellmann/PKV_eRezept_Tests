@@ -180,6 +180,10 @@
                 </amount>
                 <ingredient>
                     <itemCodeableConcept>
+                        <coding>
+                            <system value="http://fhir.de/CodeSystem/ifa/pzn"/>
+                            <code value="01546161"/>
+                        </coding>
                         <text value="Etoposid"/>
                     </itemCodeableConcept>
                     <strength>
@@ -194,6 +198,10 @@
                 </ingredient>
                 <ingredient>
                     <itemCodeableConcept>
+                        <coding>
+                            <system value="http://fhir.de/CodeSystem/ifa/pzn"/>
+                            <code value="02737756"/>
+                        </coding>
                         <text value="NaCl 0,9 %"/>
                     </itemCodeableConcept>
                     <strength>
