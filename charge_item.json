@@ -5,13 +5,16 @@
     {
     "category": "ZUZAHLUNG",
     "type": "informational",
-    "insurantCost": 5.0,
-    "totalCost": 7.88,
-    "pzn": "18203330"
+    "insurantCost": 0.0,
+    "totalCost": 29.99,
+    "pzn": "00176868"
     },
     {
     "category": "ZUZAHLUNG",
-    "type": "informational"
+    "type": "informational",
+    "insurantCost": 0.0,
+    "totalCost": 19.99,
+    "pzn": "02268994"
     }
     ]
     }
