@@ -2,19 +2,19 @@
     "currency": "EUR",
     "vatRate": 12.9,
     "priceComponents": [
-    {
-    "category": "ZUZAHLUNG",
-    "type": "informational",
-    "insurantCost": 0.0,
-    "totalCost": 29.99,
-    "pzn": "00176868"
-    },
-    {
-    "category": "ZUZAHLUNG",
-    "type": "informational",
-    "insurantCost": 0.0,
-    "totalCost": 19.99,
-    "pzn": "02268994"
-    }
+        {
+            "category": "ZUZAHLUNG",
+            "type": "informational",
+            "insurantCost": 0.0,
+            "totalCost": 29.99,
+            "pzn": "00176868"
+        },
+        {
+            "category": "ZUZAHLUNG",
+            "type": "informational",
+            "insurantCost": 0.0,
+            "totalCost": 19.99,
+            "pzn": "02268994"
+        }
     ]
-    }
+}
